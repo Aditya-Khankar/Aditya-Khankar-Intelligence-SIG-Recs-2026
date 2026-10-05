@@ -1,0 +1,21 @@
+# Data & dataset folders
+data/
+ml-100k/
+dataset_2_3/
+
+# Binaries, archives & data files
+*.zip
+*.npz
+*.npy
+*.pt
+*.pth
+*.ckpt
+
+# Python / Environment / IDE
+.venv/
+venv/
+env/
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+.idea/

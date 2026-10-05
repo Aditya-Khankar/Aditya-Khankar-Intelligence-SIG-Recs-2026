@@ -1,0 +1,26 @@
+# Python / PyTorch artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.pt
+*.pth
+*.ckpt
+
+# Data & Large arrays (raw datasets and arrays)
+*.npz
+*.npy
+*.zip
+*.tar.gz
+*.gz
+datasets/
+dataset_2_3/
+ml-100k/
+data/
+
+# Environment / IDE
+.venv/
+env/
+venv/
+.idea/
+.vscode/
+.ipynb_checkpoints/
