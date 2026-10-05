@@ -1,2 +1,18 @@
 .DS_Store
 non-mandatory-tasks/quantvision-quantization-segmentation/QuantVision_dataset.zip
+
+# Datasets and large arrays
+datasets/
+dataset/
+data/
+ml-100k/
+dataset_2_3/
+*.zip
+*.npz
+*.npy
+*.pt
+*.pth
+*.ckpt
+.venv/
+__pycache__/
+.ipynb_checkpoints/
